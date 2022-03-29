@@ -1,0 +1,40 @@
+{
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "welcomePage",
+    "[dart]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    
+    "editor.formatOnSave": false,
+    "dart.previewLsp": true,
+    "dart.openDevTools": "flutter",
+    "editor.fontSize": 13,
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "editor.quickSuggestions": null,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+    },
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "enableTelemetry": false,
+    "workbench.colorTheme": "Default Light+",
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.accessibilitySupport": "off",
+    "explorer.experimental.fileNesting.enabled": true,
+    "explorer.experimental.fileNesting.expand": false,
+    "explorer.experimental.fileNesting.patterns": {
+        "pubspec.yaml": ".packages,.metadata,pubspec.lock,analysis_options.yaml,.flutter-plugins,.flutter-plugins-dependencies"
+    }
+}
